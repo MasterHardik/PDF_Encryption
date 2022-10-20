@@ -1,0 +1,4 @@
+#You will need teh following creadentials to unlock the Encrypted pdf file
+
+owner : master
+pswd : 123asdf   
